@@ -1,0 +1,49 @@
+#pageHeader
+{
+    font-size: 6.5em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: darkblue;
+    text-align: center;
+
+}
+.programHeader
+{
+    font-size: 3.5em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: mediumblue;
+    
+}
+.subHeader
+{
+    font-size: 0.5em;
+
+}
+#answerCount
+{
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: darkblue;
+    padding: 0.8em;
+}
+.resultButton
+{
+    color: darkblue;
+    background-color: gold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    border-radius: 15%;
+
+}
+.resultButton:hover
+{
+    background-color: darkgoldenrod;
+}
+#text
+{
+    height: 160px;
+    width: 280px;
+    font-size:x-large;
+}
